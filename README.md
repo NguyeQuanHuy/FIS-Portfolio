@@ -223,6 +223,6 @@ Ich freue mich über **Praktikumsangebote**, **Ausbildungsplätze** und **Junior
 
 **⭐ Wenn dir dieses Portfolio gefällt, freue ich mich über einen Stern!**
 
-*Letztes Update: [Datum] · Dieses Repository wird kontinuierlich erweitert.*
+*Letztes Update: Mai 2026 · Dieses Repository wird kontinuierlich erweitert.*
 
 </div>
