@@ -11,7 +11,7 @@
 
 ## 👤 Über mich / About me
 
-Hallo! Ich bin **[Vor- und Nachname]**, Auszubildender zum **Fachinformatiker für Systemintegration** in Deutschland. In diesem Repository dokumentiere ich meine praktischen Projekte, Skripte und Lernfortschritte — von Netzwerk-Setups über Windows-Server-Administration bis hin zu Linux- und Cloud-Themen.
+Hallo! Ich bin **Nguyen Quan Huy**, Auszubildender zum **Fachinformatiker für Systemintegration** in Deutschland. In diesem Repository dokumentiere ich meine praktischen Projekte, Skripte und Lernfortschritte — von Netzwerk-Setups über Windows-Server-Administration bis hin zu Linux- und Cloud-Themen.
 
 Mein Ziel: theoretisches IHK-Wissen mit echten, reproduzierbaren Lab-Projekten verbinden und zeigen, dass ich nicht nur „Theorie kann", sondern **IT-Systeme wirklich aufbauen und betreiben** kann.
 
@@ -23,10 +23,10 @@ Mein Ziel: theoretisches IHK-Wissen mit echten, reproduzierbaren Lab-Projekten v
 
 | | |
 |---|---|
-| 📧 **E-Mail** | [deine.email@beispiel.de](mailto:deine.email@beispiel.de) |
+| 📧 **E-Mail** | Q.H.Nguyen@t-online.de](mailto:deine.email@beispiel.de) |
 | 💼 **LinkedIn** | [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil) |
 | 🌐 **Portfolio-Website** | [deinportfolio.de](https://deinportfolio.de) |
-| 📍 **Standort** | [Stadt], Deutschland |
+| 📍 **Standort** | Waltershausen, Deutschland |
 
 ---
 
