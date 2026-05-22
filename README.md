@@ -23,7 +23,7 @@ Mein Ziel: theoretisches IHK-Wissen mit echten, reproduzierbaren Lab-Projekten v
 
 | | |
 |---|---|
-| 📧 **E-Mail** | Q.H.Nguyen@t-online.de]|
+| 📧 **E-Mail** | Q.H.Nguyen@t-online.de|
 | 💼 **LinkedIn** | [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil) |
 | 🌐 **Portfolio-Website** | [deinportfolio.de](https://deinportfolio.de) |
 | 📍 **Standort** | Waltershausen, Deutschland |
@@ -215,7 +215,7 @@ Ich freue mich über **Praktikumsangebote**, **Ausbildungsplätze** und **Junior
 
 > *"IT-Systemintegration ist für mich mehr als ein Beruf — es ist die Kunst, aus einzelnen Komponenten ein stabiles, sicheres und effizientes Ganzes zu schaffen."*
 
-📧 **Kontakt:** [deine.email@beispiel.de](mailto:deine.email@beispiel.de)
+📧 **Kontakt:** Q.H.Nguyen@t-online.de
 
 ---
 
