@@ -23,7 +23,7 @@ Mein Ziel: theoretisches IHK-Wissen mit echten, reproduzierbaren Lab-Projekten v
 
 | | |
 |---|---|
-| 📧 **E-Mail** | Q.H.Nguyen@t-online.de](mailto:deine.email@beispiel.de) |
+| 📧 **E-Mail** | Q.H.Nguyen@t-online.de]|
 | 💼 **LinkedIn** | [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil) |
 | 🌐 **Portfolio-Website** | [deinportfolio.de](https://deinportfolio.de) |
 | 📍 **Standort** | Waltershausen, Deutschland |
